@@ -1,7 +1,0 @@
-USER STORIES
-1. As a user, I want a random recipe suggested to me, so that I can learn
-new recipes.
-2. As a lazy cook, I want to cook something quick and simple, so that I
-can use my time for my hobbies.
-3. As a inexperienced cook, I want to cook something easy, so that I can
-learn a new skill.
