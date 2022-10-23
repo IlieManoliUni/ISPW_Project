@@ -1,8 +1,0 @@
-FUNCTIONAL REQUIREMENTS
-1. The system shall suggest a random recipe when the user select the
-random button.
-2. The system shall provide a list of recipes based on the preparation
-time of the recipe when the user set the maximum preparation time
-value.
-3. The system shall provide a list of recipes based on the difficulty of
-the recipe when the user select a recipe difficulty.
